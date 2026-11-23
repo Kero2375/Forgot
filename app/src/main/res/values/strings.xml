@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Forgot</string>
+    <string name="widget_todo_label">Todo List</string>
+    <string name="widget_todo_description">View and check off today\'s to-dos</string>
+    <string name="widget_todo_title">Todos</string>
+    <string name="widget_todo_empty">No todos for today.\nTap to add one.</string>
+    <string name="widget_todo_add_desc">Open app to add to-do</string>
+
+    <string name="widget_reminders_label">Reminders</string>
+    <string name="widget_reminders_description">View and check off today\'s reminders</string>
+    <string name="widget_reminders_title">Reminders</string>
+    <string name="widget_reminders_empty">No reminders scheduled today.\nTap to manage.</string>
+    <string name="widget_reminders_add_desc">Open reminders</string>
+</resources>
